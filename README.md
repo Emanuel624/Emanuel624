@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emanuel624
 - 👀 I’m interested in learning python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on everithing i guess
+- 💞️ I’m looking to collaborate on everything i guess
 
 
 <!---
